@@ -161,6 +161,44 @@ references:
   URL: https://www.journals.uchicago.edu/doi/abs/10.1086/448694
   volume: '19'
 
+- id: buttsHistorySlaveChrist2017b
+  abstract: >-
+    "The History of the 'Slave of Christ' : From Jewish Child to Christian
+    Martyr offers the first critical editions and English translations of the
+    two Syriac recensions of this fascinating text, which narrates the story of
+    a young Jewish child, Asher, who after converting to Christianity and taking
+    the name ʻAbda da-Miḥa ('slave of Christ') is martyred by his father Levi in
+    a scene reminiscent of Abraham's offering of Isaac in Genesis 22. In a
+    detailed introduction, the authors argue that the text is a fictional story
+    composed during the early Islamic period (ca. 650-850) probably in Shigar
+    (modern Sinjār). Building upon methodology from the study of Western
+    Christian and Jewish texts, they further contend that the story's author
+    constructs an imagined Jew based on the Hebrew Bible, thereby challenging
+    the way that previous scholars have used this text as straightforward
+    evidence for historical interactions between Jews and Christians in
+    Babylonia at this time. This ultimately allows the authors to reevaluate the
+    purpose of the text and to situate it in its Late Antique Babylonian
+    context"--
+  author:
+    - family: Butts
+      given: Michael Aaron
+    - family: Gross
+      given: Simcha
+  call-number: 21/NV 1500 B989 available IG Farben-Haus, Q6, 5. OG, Raum 5.611
+  citation-key: buttsHistorySlaveChrist2017b
+  event-place: Piscataway, N.J.
+  ISBN: 978-1-4632-0573-7
+  issued:
+    - year: 2017
+  language: In English and Syriac; with Syriac texts translated into English.
+  note: 'OCLC: 965922443'
+  publisher: Gorgias Press
+  publisher-place: Piscataway, N.J.
+  source: UBFFM BzG
+  title: 'The history of the ''Slave of Christ'': from Jewish child to Christian martyr'
+  title-short: The history of the 'Slave of Christ'
+  type: book
+
 - id: CenterStudyConversiona
   accessed:
     - year: 2022
@@ -1240,11 +1278,6 @@ references:
   URL: https://academic.oup.com/socrel/article-lookup/doi/10.2307/4153097
   volume: '66'
 
-- id: Placeholder
-  citation-key: Placeholder
-  title: Placeholder
-  type: book
-
 - id: pollackIntegrationUndReligion2016a
   accessed:
     - year: 2022
@@ -1785,6 +1818,53 @@ references:
     Europe
   type: article-journal
 
+- id: vogelStreitNichtNur2018a
+  abstract: >-
+    The triad of Jews, Gentiles and Christians seems clearly arranged in the
+    religious
+     world of the Roman Empire. However, a closer look shows that this is too simple a
+     model in that it neither does justice to the diverse descriptions of these groups
+     or those of others, nor to their respective concepts of identity or the varying mechanisms
+     of inclusions and exclusions. This volume illustrates this by way of interdisciplinary
+     individual studies on Asia Minor, but also through conceptional considerations. In
+     summary, the editors offer new terminology suggestions
+  author:
+    - family: Vogel
+      given: Manuel
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 2018-68403
+  citation-key: vogelStreitNichtNur2018a
+  collection-number: '400'
+  collection-title: Wissenschaftliche Untersuchungen zum Neuen Testament
+  container-title: >-
+    Juden, Christen, Heiden? Religiöse Inklusion und Exklusion in Kleinasien bis
+    Decius
+  editor:
+    - family: Alkier
+      given: Stefan
+    - family: Leppin
+      given: Hartmut
+  event-place: Tübingen
+  ISBN: 978-3-16-153706-6
+  issued:
+    - year: 2018
+  language: de
+  note: >-
+    ill. 24 cm. Textes issus d'un congrès. 15 contributions en allemand et 2 en
+    anglais. Bibliogr. en fin de contributions.
+  number-of-volumes: '1'
+  page: 43-70
+  publisher: Mohr Siebeck
+  publisher-place: Tübingen
+  source: BnF Catalogue général (http:// catalogue.bnf.fr)
+  title: >-
+    Ein Streit nicht nur um Worte: Begriffsgeschichtliche Beobachtungen  zu
+    frühchristlichen Strategien der Exklusion
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.mohrsiebeck.com%2Fbuch%2Fjuden-heiden-christen-9783161550294
+
 - id: wadhwaNegotiatingIdentityReligion2019a
   abstract: >-
     This book examines the religious lives of young adults growing up in
@@ -1855,7 +1935,7 @@ references:
     neuzeitlichen Begriffes
   title-short: Über Religion vor der „Religion“
   type: chapter
-  URL: https://doi.org/10.30965/9783657781164_004
+  URL: https://nbn-resolving.org/urn:nbn:de:bsz:352-0-314359
 
 - id: wistrichDilemmasAssimilationCentral2020a
   abstract: >-
