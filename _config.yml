@@ -5,14 +5,16 @@ paginate:            50
 
 # Build settings
 markdown:            kramdown
+exclude:             ["README.md"]
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+future:              true # Posts with future dates will be included
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "Intercultural Communication & Religious Change"
+description:	       "Intercultural Communication in Changing Religious Milieus: Comparative Investigations | Interkulturelle Kommunikationswege in sich wandelnden religiösen Umfeldern. Vergleichende Untersuchungen"
+author:              "Nathan Gibson"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
