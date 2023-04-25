@@ -1897,13 +1897,27 @@ references:
       given: Christian C.
   citation-key: sahnerMassConversionChristians2020a
   container-title: 'Conversion to Islam in the Premodern Age: A Sourcebook'
+  editor:
+    - family: Hurvitz
+      given: Nimrod
+    - family: Sahner
+      given: Christian C.
+    - family: Simonsohn
+      given: Uriel
+    - family: Yarbrough
+      given: Luke
+  event-place: Oakland
   issued:
     - year: 2020
-  page: '101'
+  language: en
+  page: 101-104
   publisher: University of California Press
+  publisher-place: Oakland
   source: Google Scholar
   title: Mass Conversion of Christians in Northern Mesopotamia
-  type: article-journal
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/18072600580/CourseNode/93668888136198/4+-+Sahner+-+2020+-+Mass+Conversion+of+Christians+in+Northern+Mesopota.pdf
 
 - id: sharmaHinduismConversion2014a
   accessed:
@@ -2395,7 +2409,7 @@ references:
   title: 'Exploring Mass Conversion to Christianity among the Chinese: An Introduction'
   title-short: Exploring Mass Conversion to Christianity among the Chinese
   type: article-journal
-  URL: https://www.jstor.org/stable/3712444
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/3712444
   volume: '67'
 
 - id: zuckermanOxfordHandbookSecularism2017
