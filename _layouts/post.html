@@ -27,26 +27,20 @@ layout: default
   {% endif %}
   <article>
     
-    <a href="{{ site.data.settings.zotero-base }}/tags/{{ page.zotero-tag }}/library" class="menu-link">
-      <i class="fa-solid fa-book" aria-hidden="true"></i>
-    </a>
-    <a href="{{ site.data.settings.zotero-base }}/tags/{{ page.zotero-tag }}/library" class="menu-link">
-      Readings
-    </a>
-
-    <a href="{{ site.data.settings.pad-base }}{{ page.pad-slug }}" class="menu-link">
-      <i class="fa-solid fa-clipboard" aria-hidden="true"></i>
-    </a>
-    <a href="{{ site.data.settings.pad-base }}{{ page.pad-slug }}" class="menu-link">
-      Shared workspace
-    </a>
-
     {% if page.objective %}
-      <h2>Learning objective</h2>
+      <h2><i class="fa-solid fa-check"></i> Learning objective</h2>
       {{ page.objective }}
     {% endif %}
 
     {% include readings.html %}
+    <h2>
+      <i class="fa-solid fa-clipboard" aria-hidden="true"></i>
+      <a href="{{ site.data.settings.pad-base }}{{ page.pad-slug }}">
+        Shared workspace
+      </a>
+      <i class="fa-solid fa-arrow-up-right-from-square"></i>
+    </h2>
+    
     {{ content }}
   </article>
   {% if site.hide_related_slides != true %}
