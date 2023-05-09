@@ -2192,6 +2192,45 @@ references:
   URL: >-
     http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338522.001.0001/oxfordhb-9780195338522-e-012
 
+- id: stroumsaAcculturationConversionIslamic2016a
+  abstract: >-
+    The High Middle Ages in Islamic Spain (al-Andalus) is often described as a
+    golden age in which Jews, Christians and Muslims lived in harmony. The
+    attested dynamics of conversions to Islam disturb this idyllic, static
+    picture, revealing the religious and social pressures exerted on the
+    religious minorities. The different reactions of the Jewish and Christian
+    communities of al-Andalus to these pressures allow us to refine our
+    understanding of conversion in the Medieval Islamic world. A close
+    examination of the Jewish family of Banū Ḥasday shows more nuances and
+    ambivalence than ‘conversion’ normally suggests.
+  accessed:
+    - year: 2023
+      month: 3
+      day: 10
+  author:
+    - family: Stroumsa
+      given: Sarah
+  citation-key: stroumsaAcculturationConversionIslamic2016a
+  container-title: 'Mediterranea: International journal on the transfer of knowledge'
+  DOI: 10.21071/mijtk.v0i1.5171
+  ISSN: 2445-2378
+  issued:
+    - year: 2016
+      month: 3
+      day: 1
+  language: en
+  license: >-
+    Copyright (c) 2016 Mediterranea. International Journal on the Transfer of
+    Knowledge
+  page: 9-36
+  source: www.uco.es
+  title: >-
+    Between acculturation and conversion in Islamic Spain: The case of the Banū
+    Ḥasday
+  title-short: Between acculturation and conversion
+  type: article-journal
+  URL: https://journals.uco.es/mediterranea/article/view/5171/4865
+
 - id: szpiechConversionNarrativeReading2013b
   author:
     - family: Szpiech
