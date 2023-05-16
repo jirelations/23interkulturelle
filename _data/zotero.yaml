@@ -1390,6 +1390,43 @@ references:
   type: article-journal
   volume: '9'
 
+- id: nesbittIntroduction2016
+  abstract: >-
+    The Sikh religion has a following of over 20 million people worldwide.
+    However,events such as the verbal and physical attacks on Sikhs just after
+    September 11, where Sikhs were being mistaken for Muslims, suggest that the
+    Sikh faith still remains mysterious to many. This Very Short Introduction
+    introduces newcomers to the meaning of the Sikh religious tradition, its
+    teachings, practices, rituals and festivals. Eleanor Nesbitt highlights and
+    contextualizes the key threads in the history of Sikhism, from the first
+    Gurus to martyrdom, militarization, and the increasingly significant
+    diaspora. Examining gender, caste, and the changes that are currently
+    underway in the faith, Nesbitt considers contemporary Sikh identities and
+    their role in our world. ABOUT THE SERIES: The Very Short Introductions
+    series from Oxford University Press contains hundreds of titles in almost
+    every subject area. These pocket-sized books are the perfect way to get
+    ahead in a new subject quickly. Our expert authors combine facts, analysis,
+    perspective, new ideas, and enthusiasm to make interesting and challenging
+    topics highly readable.
+  author:
+    - family: Nesbitt
+      given: Eleanor
+  citation-key: nesbittIntroduction2016
+  container-title: 'Sikhism: A Very Short Introduction'
+  ISBN: 978-0-19-106276-6
+  issued:
+    - year: 2016
+      month: 4
+      day: 28
+  language: en
+  page: 16-25
+  publisher: Oxford University Press
+  source: Google Books
+  title: Introduction
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://ebookcentral.proquest.com/lib/senc/reader.action?docID=422677&ppg=16
+
 - id: nesbittSikhism2018a
   abstract: >-
     This entry surveys Sikhism in the context of the ethnography of Sikh
@@ -1421,41 +1458,6 @@ references:
   title: Sikhism
   type: chapter
   URL: http://onlinelibrary.wiley.com/doi/abs/10.1002/9781118924396.wbiea2186
-
-- id: nesbittSikhismVeryShort2016a
-  abstract: >-
-    The Sikh religion has a following of over 20 million people worldwide.
-    However,events such as the verbal and physical attacks on Sikhs just after
-    September 11, where Sikhs were being mistaken for Muslims, suggest that the
-    Sikh faith still remains mysterious to many. This Very Short Introduction
-    introduces newcomers to the meaning of the Sikh religious tradition, its
-    teachings, practices, rituals and festivals. Eleanor Nesbitt highlights and
-    contextualizes the key threads in the history of Sikhism, from the first
-    Gurus to martyrdom, militarization, and the increasingly significant
-    diaspora. Examining gender, caste, and the changes that are currently
-    underway in the faith, Nesbitt considers contemporary Sikh identities and
-    their role in our world. ABOUT THE SERIES: The Very Short Introductions
-    series from Oxford University Press contains hundreds of titles in almost
-    every subject area. These pocket-sized books are the perfect way to get
-    ahead in a new subject quickly. Our expert authors combine facts, analysis,
-    perspective, new ideas, and enthusiasm to make interesting and challenging
-    topics highly readable.
-  author:
-    - family: Nesbitt
-      given: Eleanor
-  citation-key: nesbittSikhismVeryShort2016a
-  ISBN: 978-0-19-106276-6
-  issued:
-    - year: 2016
-      month: 4
-      day: 28
-  language: en
-  number-of-pages: '177'
-  publisher: Oxford University Press
-  source: Google Books
-  title: 'Sikhism: A Very Short Introduction'
-  title-short: Sikhism
-  type: book
 
 - id: nicolini-zaniChristianMonksChinese2016a
   abstract: >-
