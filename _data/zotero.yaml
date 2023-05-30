@@ -828,6 +828,39 @@ references:
   title-short: Intercultural Communication
   type: book
 
+- id: hoodWhatDeconversionCritiques2021
+  accessed:
+    - year: 2023
+      month: 5
+      day: 30
+  author:
+    - family: Hood
+      given: Ralph W.
+    - family: Streib
+      given: Heinz
+    - family: Keller
+      given: Barbara
+  citation-key: hoodWhatDeconversionCritiques2021
+  collection-number: Volume 33
+  collection-title: Research in Contemporary Religion
+  container-title: Deconversion Revisited
+  DOI: 10.13109/9783666568688.17
+  ISBN: 978-3-525-56868-2
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  page: 17-32
+  publisher: Vandenhoeck & Ruprecht
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    What is Deconversion? Critiques and Current Conceptualizations from a Faith
+    Developmental Perspective
+  title-short: Chapter 1
+  type: chapter
+  URL: https://www.vr-elibrary.de/doi/10.13109/9783666568688.17
+  volume: Volume 33
+
 - id: hurvitzConversionIslamPremodern2020b
   accessed:
     - year: 2022
