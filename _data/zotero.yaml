@@ -497,13 +497,14 @@ references:
   title-short: The Faces of the Gods
   type: book
 
-- id: dewaltParticipantObservationGuide2011a
+- id: dewaltDoingParticipantObservation2011
   author:
     - family: DeWalt
       given: Kathleen Musante
     - family: DeWalt
       given: Billie R
-  citation-key: dewaltParticipantObservationGuide2011a
+  citation-key: dewaltDoingParticipantObservation2011
+  container-title: 'Participant observation: A guide for fieldworkers'
   event-place: Lanham, Md.
   ISBN: 978-0-7591-1927-7 978-0-7591-1928-4 978-0-7591-1926-0
   issued:
@@ -513,9 +514,30 @@ references:
   publisher: Altamira Pres, Md.
   publisher-place: Lanham, Md.
   source: Open WorldCat
-  title: 'Participant observation: A guide for fieldworkers'
-  title-short: Participant observation
-  type: book
+  title: 'Doing Participant Observation: Becoming a Participant'
+  type: chapter
+  URL: http://ebookcentral.proquest.com/lib/senc/detail.action?docID=1021969
+
+- id: dewaltWhatParticipantObservation2011
+  author:
+    - family: DeWalt
+      given: Kathleen Musante
+    - family: DeWalt
+      given: Billie R
+  citation-key: dewaltWhatParticipantObservation2011
+  container-title: 'Participant observation: A guide for fieldworkers'
+  event-place: Lanham, Md.
+  ISBN: 978-0-7591-1927-7 978-0-7591-1928-4 978-0-7591-1926-0
+  issued:
+    - year: 2011
+  language: English
+  note: 'OCLC: 916521405'
+  publisher: Altamira Pres, Md.
+  publisher-place: Lanham, Md.
+  source: Open WorldCat
+  title: What Is Participant Observation?
+  type: chapter
+  URL: http://ebookcentral.proquest.com/lib/senc/detail.action?docID=1021969
 
 - id: dunnChristiansShapingIdentity2015b
   call-number: >-
@@ -617,6 +639,22 @@ references:
   publisher-place: Milano
   source: BnF Catalogue général (http:// catalogue.bnf.fr)
   title: La cittadinanza sinaitica
+  type: book
+
+- id: friedrichsTeilnehmendeBeobachtungEinfuhrung1977
+  author:
+    - family: Friedrichs
+      given: Jürgen
+  citation-key: friedrichsTeilnehmendeBeobachtungEinfuhrung1977
+  collection-title: Veröffentlichungen / Pädagogisches Zentrum. Reihe E
+  ISBN: 978-3-407-12611-5
+  issued:
+    - year: 1977
+  publisher: Beltz
+  title: >-
+    Teilnehmende Beobachtung : Einführung in die sozialwissenschaftliche
+    Feldforschung
+  title-short: Teilnehmende Beobachtung
   type: book
 
 - id: furstenbergJewishChristianCommunal2016b
@@ -1238,6 +1276,29 @@ references:
   title: Everyday Religion as Lived
   type: chapter
   URL: https://ebookcentral.proquest.com/lib/senc/reader.action?docID=665414&ppg=16
+
+- id: merkensTeilnehmendeBeobachtungGrundlagen2007
+  author:
+    - family: Merkens
+      given: Hans
+  citation-key: merkensTeilnehmendeBeobachtungGrundlagen2007
+  collection-number: '13'
+  collection-title: Europäische Bibliothek interkultureller Studien
+  container-title: Teilnehmende Beobachtung in interkulturellen Situationen
+  editor:
+    - family: Weigand
+      given: Gabriele
+  event-place: Frankfurt/Main
+  ISBN: 978-3-593-38505-1
+  issued:
+    - year: 2007
+  language: ger
+  page: 23-38
+  publisher: Campus-Verl
+  publisher-place: Frankfurt/Main
+  source: K10plus ISBN
+  title: 'Teilnehmende Beobachtung: Grundlagen – Methoden – Anwendung'
+  type: chapter
 
 - id: merkinIndividualismcollectivismSavingFace2018a
   author:
